@@ -3,8 +3,8 @@ import Container from "../Layout/Container";
 
 const Banner = () => {
   return (
-    <div className="bg-[url(./assets/laptopScreen.png)] bg-no-repeat h-full">
-      <div className="bg-[url(./assets/bgShape.png)] h-[1063px] pt-48 ">
+    <div className="bg-[url(./assets/laptopScreen.png)] bg-no-repeat h-full bg-cover bg-center">
+      <div className="bg-[url(./assets/bgShape.png)] h-[1063px] pt-48 bg-no-repeat bg-cover bg-center ">
         <Container>
           <div className="flex flex-col items-center ">
             <h1 className="font-chivo font-bold text-[56px] leading-16 w-[796px] text-center mb-5 text-white">
