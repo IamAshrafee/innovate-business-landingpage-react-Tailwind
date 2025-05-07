@@ -6,7 +6,7 @@ import SalesDataicon from "../../assets/salesDataIcon.png";
 
 const OurPlatform = () => {
   return (
-    <div className="py-[160px]">
+    <div className="py-[200px]">
       <Container>
         <div className="flex flex-col gap-[116px]">
           <div className="flex flex-row justify-between items-start ">

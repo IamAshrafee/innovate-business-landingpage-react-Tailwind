@@ -3,6 +3,8 @@ import Navbar from "./components/Navbar/Navbar";
 import Banner from "./components/Banner/Banner";
 import OurPlatform from "./components/OurPlatform/OurPlatform";
 import OurFeatures from "./components/Features/OurFeatures";
+import IntegrationSection from "./components/Integration/IntegrationSection";
+import OurServices from "./components/OurServices/OurServices";
 
 const App = () => {
   return (
@@ -10,7 +12,9 @@ const App = () => {
       <Navbar></Navbar>
       <Banner></Banner>
       <OurPlatform></OurPlatform>
-      <OurFeatures></OurFeatures>{" "}
+      <OurFeatures></OurFeatures>
+      <IntegrationSection></IntegrationSection>
+      <OurServices></OurServices>
     </div>
   );
 };

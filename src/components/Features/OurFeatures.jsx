@@ -7,7 +7,7 @@ import secureIcon from "../../assets/secureIcon.png";
 
 const OurFeatures = () => {
   return (
-    <div className="mb-[55px]">
+    <div className="mb-[55px] mt-10">
       <Container>
         <div className="flex flex-row justify-between gap-[162px]">
           <div>
