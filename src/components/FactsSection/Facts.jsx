@@ -18,7 +18,7 @@ const Facts = () => {
                 <h4 className="font-chivo text-[44px] font-[900] leading[54px] text-white">
                   720+
                 </h4>
-                <p className="w-[176px] opacity-[0.7] font-dm-sans text-[18px] font-medium leading-8 text-white">
+                <p className="opacity-[0.7] font-dm-sans text-[18px] font-medium leading-8 text-white w-[176px]">
                   Over 500 business powered with us
                 </p>
               </div>
